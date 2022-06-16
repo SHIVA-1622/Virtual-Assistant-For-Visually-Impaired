@@ -1,4 +1,4 @@
-# DobaraMatPuchana
+# Shiva Kumar K
 
 ## **Jyoti** : Assistant for blind
 
@@ -62,8 +62,8 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
-    cd DobaraMatPuchana
+    git clone https://github.com/shiva-1622/virtual-assistant-for-visually-impaired
+    cd Shiva
     pip install -r requirements.txt
  ```
  
