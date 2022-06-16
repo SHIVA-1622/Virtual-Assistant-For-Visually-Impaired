@@ -62,7 +62,7 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/shiva-1622/virtual-assistant-for-visually-impaired
+    git clone https://github.com/SHIVA-1622/Virtual-Assistant-For-Visually-Impaired.git
     cd Shiva
     pip install -r requirements.txt
  ```
